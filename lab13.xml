@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<employees>
+    <employee>
+        <name>Sri Lakshmi</name>
+        <age>19</age>
+        <title>Software Developer</title>
+        <department>Developing</department>
+        <salary>20,00,000</salary>
+        <status>FullTime</status>
+    </employee>
+    <employee>
+        <name>Sri Krishna</name>
+        <age>19</age>
+        <title>Software Developer</title>
+        <salary>20,00,000</salary>
+        <department>Developing</department>
+        <status>FullTime</status>
+    </employee>
+</employees>
